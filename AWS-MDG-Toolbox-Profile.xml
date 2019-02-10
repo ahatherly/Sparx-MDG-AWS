@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="772D2F59-6" name="AmazonWebServices" version="1.0" notes="AmazonWebServices"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="AmazonWebServices" notes="Amazon Web Services" cx="436" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage">
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="AWS-MDGProfile::AWS-ALB(UML::Class)" type="" description="" unit="" values="" default="Application Load Balancer"/>
+					<Tag name="AWS-MDGProfile::AWS-EC2(UML::Class)" type="" description="" unit="" values="" default="EC2 Instance"/>
+					<Tag name="AWS-MDGProfile::AWS-VPC(UML::Class)" type="" description="" unit="" values="" default="Virtual Private Cloud"/>
+				</TaggedValues>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+	</Content>
+</UMLProfile>

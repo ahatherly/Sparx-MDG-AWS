@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="368FEB97-4" name="AWS-MDGProfile" version="1.0" notes="AWS-MDGProfile"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="AWS-ALB" metatype="Application Load Balancer" notes="" cx="100" cy="100" bgcolor="-1" fontcolor="0" bordercolor="0" borderwidth="1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAATCwAAEwsAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAAA
+AAAAAAAAAAAAAAAAAADAwMDAwMDAwMDAwMCRnLFhfbBHc7tBcb5Hc7thf7KSnbHAwMDAwMC/
+wMDAwMDAwMDAwMDAwMC1t7xbfLU9e9k3geo0f+s0gOw0f+s3f+g9e9hfgbqqrrfAwMC/wMDA
+wMDAwMC2uL1MecE3ges2g/I2hvY2hvY2hvY2hvY2hvY2hPM0fedZhMmmrLjAwMDAwMDAwMBh
+hb8peu4rf/UwgfUqffQsf/Q0hPUsf/Qrf/QvgfUrfvUqeOlnjsm6urrAwMCgqrs7genf7P/S
+5P2Muvrg7f6/2fxUmPbE2/zH3f2bw/vU5f641PxjluKMoMLAwMBvlMs8iPX////8/f+kyfv/
+///l7/5enfjq8/7s9P651fz////d6/5fnPNnktDAwMBQit85h/Wmyfu10vxmoviy0PyVvvpF
+jvaVv/qz0ftppPiixvuhxvtGj/dMieDAwMBHi+w3hvVbm/iTvfpNk/d/sflZmvcyg/VYmfeX
+wPpEjvZtp/h2rPkxgvVGiuzAwMBGjO82hfVDjfaBtPqv0Pxqpfg6h/UwgfU+ivWAsvmexPp2
+rPhKkfYzg/VGjO/AwMBSkeo2hfU2hfVEjfa10fuNuvqLufqIt/qLufqfxfuhxvtDjfY1hPU2
+hfVSkerAwMBzn942hfU2hfU3hvVGj/ZFjvZVmPeTvfo+ivZGj/ZFjvY3hfU2hfU2hfVwnt/A
+wMCntco2hfU2hfU2hfU6iPVmoveVv/q81vyFtvpxqfgwgfU2hfU2hfVEi/CSrNLAwMC/wMBs
+nOA2hfU1hfVAi/Wtzfv////9/v/////F3PwnfPQ2hfU2hfVtnOC9v8HAwMDAwMC4vcNUkuk1
+hfVAi/Wwz/v////////////J3vwnfPQ2hfVcleavucfAwMDAwMDAwMDAwMC4vcNsnOA6h/Vl
+ofeHtvmEtPmGtvlup/gzgvRqm+G0u8XAwMDAwMDAwMDAwMDAwMDAwMC+v8Gotsl0oN1Yk+hO
+j+xXk+h2oNyktMvAwMDAwMDAwMDAwMDAwMAAAAAAAAAAAAAACgAAAAAAAAAsYsMBAAAAAAAA
+AAAAAAAA0Dq+AQAAAAAAAAAA//////////8AAAAAAAAAAICAgAAAAAAAAAAAAAAAAAAAAAAA
+ggAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA
+AA==</Icon>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAG6UA02Q/nvlWAEAAJgDAAAHABEAc3RyLmRhdFVUDQAHe6BkW3ugZFt7oGRb
+lZJBS8NAEIXftYL/IbQXhSLag4jSg4o36UEFj5KamAaTGNqoVPG/+80k0ZSiVobM7E7evJ15
+uwvNFKpUrEA5q1SFtrWld/eBMnJLPelZFbZ05Fh9TcnNFbGbsztp0CGZSAvQU3zLvAOiAl8S
+h6D6mvDtblBVsM5Z31Odkw05rfJMQWzZznUB4w3+qsPba9i/GYOmizrfTmj2vynNSjKxHvyP
+rSJOiVEvIVbUHmgf61b8PGXq8xV/zBPoo4nrc7UM65Ot9/kKOqLHGV0earTSY+pvIGn6OvXd
+mzMHuiU7JV4714ufGdPFMTZhVcFsaj36G0p0R32JZY4M+Z860yXetDjDm+6F88y1h8/p1FQY
+od3QvyP3tZqbKPH7i6nfRa1PD5vRpXVh92YzjmX6Wz+G7t66oU29lHyIDpmrmuIzsm1le3q3
+ym7AFKlAFq7r4As3WHmv9VS1/wRQSwECFwsUAAAACABulANNkP575VgBAACYAwAABwAJAAAA
+AAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHe6BkW1BLBQYAAAAAAQABAD4AAACOAQAAAAA=</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="AWS-EC2" metatype="Elastic Compute Cloud Instance" notes="" cx="100" cy="100" bgcolor="-1" fontcolor="0" bordercolor="0" borderwidth="1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAATCwAAEwsAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAADAwMDAwMDAwMDAwMDAwMDAwMCWobZWgcSZsNG5vcPAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMCMnLiDpdQlUZ4uasc3h/hXk+iNqtS8vsLAwMDAwMDAwMDA
+wMDAwMDAwMCWn7FflN8yX6s0fukmU6Euasc3h/g2hfU4hvRMju2Oq9PAwMDAwMDAwMDAwMBW
+ebItZ8E0f+spWq00fuomU6Euasc3h/g2hfU2hfU2hfU2hfVRkevAwMDAwMDAwMA/aK4sZ8Q0
+f+spWq00fuomU6Euasc3h/g2hfU2hfU2hfU2hfVEi/DAwMDAwMDAwMBAaa4sZ8Q0f+spWq00
+fuomU6Euasc3h/g2hfU2hfU2hfU2hfVFi+/AwMDAwMDAwMBAaa4sZ8Q0f+spWq00fuomU6Eu
+asc3h/g2hfU2hfU2hfU2hfVFi+/AwMDAwMDAwMBAaa4sZ8Q0f+spWq00fuomU6Euasc3h/g2
+hfU2hfU2hfU2hfVFi+/AwMDAwMDAwMBAaa4sZ8Q0f+spWq00fuomU6Euasc3h/g2hfU2hfU2
+hfU2hfVFi+/AwMDAwMDAwMBAaa4sZ8Q0f+spWq00fuomU6Euasc3h/g2hfU2hfU2hfU2hfVF
+i+/AwMDAwMDAwMBAaa4sZ8Q0f+spWq00fuomU6Euasc3h/g2hfU2hfU2hfU2hfVFi+/AwMDA
+wMDAwMA/aK4sZ8Q0f+spWq00fuomU6Euasc3h/g2hfU2hfU2hfU2hfVEi/DAwMDAwMDAwMBW
+ebItZsE0f+spWq00fuomU6Euasc3h/g2hfU2hfU2hfU2hfVRkevAwMDAwMDAwMDAwMCWn7Bf
+lN8yX6s0fukmU6Euasc3h/g2hfU4hvRMju2Oq9PAwMDAwMDAwMDAwMDAwMDAwMDAwMCMnLiD
+pdQlUZ4uasc3h/hXk+iNqtS8vsLAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCWobZW
+gcSZsNG5vcPAwMDAwMDAwMDAwMDAwMDAwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA==</Icon>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAGKTA00uuvaETgEAAIwDAAAHABEAc3RyLmRhdFVUDQAHhZ5kW4WeZFuFnmRb
+lZNPS8NAEMXftYLfIbSXCiJWUArSg5RePYh3SZu0Ddg0pBGp0u/ubyabGi31D0t2Zndn3r55
+O9loqViFUkVa4WXKdaoTvfsc6Zm9rdZ6UcXYeuRIXU3ZK5WwKlndhuiS9Yy4GJQFuYba16XO
+sfU8wLa9s31uDFqiDTdNmRtWfdAr7iqwltXVPd9fsnL8lfNZYwtWJUi2k2MbtLEmID4yP7Rw
+OwH9EzEKLOr9Rh0b/1PIRuE6zf3EvIRbUpRfYCtyh+jSjj9eY+bV5b9UE2kX7GFVDcJhXYcs
+X4lOYLiE4w0s2xwz755F4DUOmpsmqZ5056dvftOE0ytdsL8C3ZgPdM1sXTF073tnHGf/8xvX
+L1nX1GEsYRLzXqZ0TvZIptksRLffyaKt4sx7eeqdPGeV4iX7zOb2dpapZv9QhVql8zSmiavS
+22f0vvRaXd9OH1BLAQIXCxQAAAAIAGKTA00uuvaETgEAAIwDAAAHAAkAAAAAAAAAAAAAgAAA
+AABzdHIuZGF0VVQFAAeFnmRbUEsFBgAAAAABAAEAPgAAAIQBAAAAAA==</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="AWS-VPC" metatype="Virtual Private Network" notes="" cx="300" cy="200" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAATCwAAEwsAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAADAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMC5ur1+
+l71Bc78rZb8pZL8pZL8qZb8pZL8rZr8qZb8nY78pZL8rZb9Bc79+l725ur15lcExeuI2h/g0
+h/pOlvtRmPtIk/tQmPs1h/o+jfp4sP1XnPsyhvo2h/gxeuJ5lcFNiuI1hvc1hfUtgPWLufmr
+zftzq/mEtfkqf/RvqPigxvqIuPpDjfY0hPU1hvdOiuJPkOs1hfU1hfU1hfWJuPrM4Px6r/nJ
+3v2xz/uDtPpkovg1hfU2hvU1hfU1hfVPkOuApdk1hfUzhPVRlveCs/qwz/yNuvqMuvqrzfuU
+vvqKufl0q/hCjfY0hPU1hfWDpte/wMBom+I1hfRLkvZXmfdXmfdopPiVv/p+svk+ivWcw/ts
+p/gzhPQ/ifFzn97AwMDAwMC9v8Ffl+UzhPUyg/Uyg/UwgvUtgPUugfU0hPUtgPUwgvVOkOul
+tMrAwMDAwMDAwMC+v8GEp9c1hfU1hfU1hfU1hfU1hfU1hfU+ifJhmORaleeVrtC/wMDAwMDA
+wMDAwMDAwMCyusVfl+U1hfU1hfU1hfU1hfU3hvSYr8+4vcO1u8S/wMDAwMDAwMDAwMDAwMDA
+wMDAwMC4vcOHqNZXk+hQkOtund+tuMfAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCWobZWgcSZsNG5vcPAwMDA
+wMDAwMDAwMDAwMDAwMAAAAAAqToAAEZSRUVouLkbmAKfBQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA==</Icon>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAAiVA01HSj/MxQEAAFgFAAAHABEAc3RyLmRhdFVUDQAHlKFkW5ShZFuUoWRb
+jVRNT8JAEH1XTPwPDV40IaLGxETDQY1XYtTokQAF2gilqQUDhv/um9luu22pmKa7O7Pz8Wb2
+7XbRxQOG+EKIMTy8IqAUY4JjHFFrJQ8LrkJEqv/RsYU5dRsssULKb6OWPbQxoi6BTymhdKfW
+nvMNuecz+oqWRY5T2sbZnmSaUe7w7/M/y6K0DvgnnMfEYjwf8UTvN44vTgwXSVVujhxxvdDo
+S86CM2Ee0UR5vj4zNedplfppkdqqbE9lnWhPIyKxVh4xXDCHx9HMl7XVVT663drlqyomF83f
+1VU9DVZXE2BAnznPbUaPHjVtShNMtTfu2cVa01S5ISsf3/TyaRfQz9RS71+X33pPjpR4470c
+kzzCopTxE61TKvX1LE/yek9q3JJMtutDZaHUcbj/9SgFguacLuLipCxf7I57UuUbYi2rDPpP
+ny3eJvuAo/Q6oE9PeeV6GLRmlJsuzJE+p/RZEpuXnc0g54FYlpkjHiEMxwpPeUHMTSr3SLJM
+9aXaQu7kDTF1cM1ZummtDMJQ36uZ2rVxr9I2w/VB7Qjy1kmta335Jox7y6/PlTBGkH1mPR7g
+Hc98S865tyACuety8vJbFpQ5sMMvUEsBAhcLFAAAAAgACJUDTUdKP8zFAQAAWAUAAAcACQAA
+AAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB5ShZFtQSwUGAAAAAAEAAQA+AAAA+wEAAAAA
+</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+	</Content>
+</UMLProfile>

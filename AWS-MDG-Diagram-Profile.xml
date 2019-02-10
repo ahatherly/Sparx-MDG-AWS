@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="6DD25524-F" name="AWS-MDGDiagram" version="1.0" alias="AWS Deployment" notes="Alias=AWS Deployment; Notes=Diagram showing the deployment of an AWS Cloud Infrastructure"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="AWS Deployment Diagram" notes="A diagram showing the deployment of a cloud infrastructure on AWS" cx="90" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Diagram_Deployment">
+						<Property name="alias" value="AWS"/>
+						<Property name="diagramID" value="AWS-Deployment"/>
+						<Property name="toolbox" value="AWS-MDGProfile::AmazonWebServices"/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+	</Content>
+</UMLProfile>
